@@ -1,4 +1,4 @@
-# atividade_2_html_github
+# atividade_1_html_github
 <doctype html>
   <!-- Tag semântica que avisa o website qual o tipo de arquivo ele irá processar. -->
   <html>
